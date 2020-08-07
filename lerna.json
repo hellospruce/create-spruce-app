@@ -1,11 +1,6 @@
 {
-  "packages": [
-    "packages/*"
-  ],
+  "packages": ["packages/*"],
   "npmClient": "yarn",
   "useWorkspaces": true,
-  "npmClientArgs": [
-    "--@myCompany:registry=http://registry.npmjs.org/:_authToken=791a0451-635b-4d47-9d00-3ff27dbad93e"
-  ],
   "version": "1.0.0"
 }
