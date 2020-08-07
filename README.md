@@ -11,7 +11,7 @@ ESlint configuration used in Spruce apps.
 ## Goals
 
 - [x] Single repo for maintaining & publishing packages used in Spruce development projects
-- [ ] A CLI tool package like `create-react-app`, e.g desired outcome: `npx spruce-scripts --template next` to bootstrap our starter projects (and stop them from polluting our github with template repos)
+- [ ] A CLI tool package like `create-react-app`, e.g desired outcome: `npx create-spruce-app --template next` to bootstrap our starter projects (and stop them from polluting our github with template repos)
 
 ## Notes
 
