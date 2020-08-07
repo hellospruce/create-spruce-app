@@ -1,6 +1,6 @@
 # eslint-config-spruce-app
 
-Following Airbnb's popular styleguide [ESlint packages](https://github.com/airbnb/javascript/tree/master/packages) with support for TypeScript, React & Prettier.
+Following Airbnb's popular styleguide [ESlint packages](https://github.com/airbnb/javascript/tree/master/packages) with support for TypeScript, React, Next.js & Prettier.
 
 ## How to use
 
